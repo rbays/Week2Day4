@@ -1,0 +1,15 @@
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\LibraryAppForms.exe.config
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\LibraryDB.mdf
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\LibraryDB_log.ldf
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\LibraryAppForms.exe
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\LibraryAppForms.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\obj\Debug\LibraryAppForms.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\obj\Debug\LibraryAppForms.Form1.resources
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\obj\Debug\LibraryAppForms.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\obj\Debug\LibraryAppForms.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\obj\Debug\LibraryAppForms.exe
+C:\Users\student\Documents\GitHub\Week2Day4\LibraryAppForms\LibraryAppForms\obj\Debug\LibraryAppForms.pdb

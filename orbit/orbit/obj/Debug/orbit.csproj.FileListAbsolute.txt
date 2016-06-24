@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\bin\Debug\orbit.exe.config
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\bin\Debug\orbit.exe
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\bin\Debug\orbit.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\obj\Debug\orbit.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\obj\Debug\orbit.Form1.resources
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\obj\Debug\orbit.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\obj\Debug\orbit.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\obj\Debug\orbit.exe
+C:\Users\student\Documents\GitHub\Week2Day4\orbit\orbit\obj\Debug\orbit.pdb

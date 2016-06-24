@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\bin\Debug\multiple controls.exe.config
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\bin\Debug\multiple controls.exe
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\bin\Debug\multiple controls.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\obj\Debug\multiple controls.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\obj\Debug\multiple_controls.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\obj\Debug\multiple controls.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\obj\Debug\multiple controls.exe
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\obj\Debug\multiple controls.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\multiple controls\multiple controls\obj\Debug\multiple_controls.Form1.resources

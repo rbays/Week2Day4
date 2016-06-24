@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\bin\Release\dialogApp.exe.config
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\bin\Release\dialogApp.exe
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\bin\Release\dialogApp.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\bin\Release\yo\dialogApp.resources.dll
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.Form1.resources
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.Form2.resources
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.Form2.yo.resources
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\yo\dialogApp.resources.dll
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.exe
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\dialogApp\dialogApp\obj\Release\dialogApp.csprojResolveAssemblyReference.cache

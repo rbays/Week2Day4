@@ -1,0 +1,15 @@
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\CustomerDatabaseApp.exe.config
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\obj\Debug\CustomerDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\obj\Debug\CustomerDatabaseApp.Form1.resources
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\obj\Debug\CustomerDatabaseApp.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\obj\Debug\CustomerDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\People.mdf
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\People_log.ldf
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\CustomerDatabaseApp.exe
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\CustomerDatabaseApp.pdb
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\obj\Debug\CustomerDatabaseApp.exe
+C:\Users\student\Documents\GitHub\Week2Day4\CustomerDatabaseApp\CustomerDatabaseApp\obj\Debug\CustomerDatabaseApp.pdb
